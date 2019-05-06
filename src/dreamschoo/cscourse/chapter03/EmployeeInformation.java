@@ -1,4 +1,4 @@
-package icehs.science.chapter03;
+package dreamschoo.cscourse.chapter03;
 
 public class EmployeeInformation {
 	public static void main(String[] args) {
